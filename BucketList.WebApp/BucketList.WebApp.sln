@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BucketList.WebApp", "BucketList.WebApp.csproj", "{AEF4FC31-67B3-4E13-9A7B-6FAE4ACD69F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BucketList.WebApp", "..\WebApp2\BucketList.WebApp.csproj", "{FDE99888-10B8-4EB3-B67C-F9EC7405D66F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AEF4FC31-67B3-4E13-9A7B-6FAE4ACD69F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AEF4FC31-67B3-4E13-9A7B-6FAE4ACD69F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AEF4FC31-67B3-4E13-9A7B-6FAE4ACD69F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AEF4FC31-67B3-4E13-9A7B-6FAE4ACD69F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE99888-10B8-4EB3-B67C-F9EC7405D66F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE99888-10B8-4EB3-B67C-F9EC7405D66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE99888-10B8-4EB3-B67C-F9EC7405D66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE99888-10B8-4EB3-B67C-F9EC7405D66F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
